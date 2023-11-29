@@ -1,6 +1,6 @@
 <h1 align="center">Opa! <img src="img/Imagem 7.png" width="30px">, Me chamo Anyel! </h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Web+Iniciante;Designer;Apaixonado+pela+Tecnologia!+<3&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Web;Designer;Apaixonado+pela+Tecnologia!+<3&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
